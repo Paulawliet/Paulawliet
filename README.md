@@ -23,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=paulawliet&&style=flat-square" align="center" />
 </div>  
   
-
+</br></br>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -96,13 +96,3 @@ I'm an Aspiring Web Developer and Network Engineer 🇵🇭 from Philippines
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paulawliet&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
