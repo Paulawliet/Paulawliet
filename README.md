@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" height="150" width="150" />
 </div>  
-   </br>
-
+  <br/>  
 
 <div align="center">
 <a href="https://github.com/paulawliet" target="_blank">
@@ -66,7 +65,6 @@ I'm an Aspiring Web Developer and Network Engineer 🇵🇭 from Philippines
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -85,9 +83,9 @@ I'm an Aspiring Web Developer and Network Engineer 🇵🇭 from Philippines
   
 
 <div align="center">  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -97,6 +95,9 @@ I'm an Aspiring Web Developer and Network Engineer 🇵🇭 from Philippines
 ## 🔥My Stats  
   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paulawliet&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=paulawliet&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulawliet&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
 
